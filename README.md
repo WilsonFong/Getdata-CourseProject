@@ -1,7 +1,7 @@
 Getdata-CourseProject
 =====================
 
-This repository contains three files: run_analysis.R, README.md, and CODEBOOK.md.  The code takes the UCI HAR Dataset and creates a tidy dataset with that data.  The codebook contains all variables in the final dataset.
+This repository contains three files: run_analysis.R, README.md, and CODEBOOK.md.  The code takes the UCI HAR Dataset and creates a tidy dataset.  The codebook contains all variables in the final dataset.
 
 Code Explanation
 ----------------
